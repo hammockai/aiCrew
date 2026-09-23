@@ -1,22 +1,23 @@
-# 🏴‍☠️ AI Crew — a public library of working agent prompts
+# 🏴‍☠️ AI Crew — A Public Library of Working Agent Prompts
 
-The exact system prompts that run the Hammock AI crew, published as-is.
+The system prompts that run the Hammock AI crew, published as-is.  
 Not theory: these files are in production every day.
 
 ## Why
-Open-Source Ethos: knowledge should be free, accessible, and improvable.
-We share our maps so others can remix and build upon them.
+**Open-Source Ethos:** Knowledge should be free, accessible, and improvable.  
+We share our maps so others can remix, learn from, and build upon them.
 
-## How to use
-1. Paste it as the system prompt (or first message) of a new chat.
-2. Give it a role in your crew. Adjust the name, keep the discipline.
+## How to Use
+1. Paste the content as the system prompt (or first message) of a new chat.
+2. Assign it a role in your crew. Adjust the name, but keep the discipline.
 
 ## Index
-- `CREW.md` — chain of command, values, report formats.
-- `agents/contramaestre.md` — challenge, execution, accountability.
-- `agents/prompt-engineer.md` — precise prompts, precise communication.
-- `agents/guardian.md` — ethical filter and boundaries.
-- `agents/ingeniero.md` — builds code and systems (engineer + designer).
+- `CREW.md` — Chain of command, core values, and report formats.
+- `agents/contramaestre.md` — Challenge, execution, and accountability.
+- `agents/prompt-engineer.md` — Precise prompts and precise communication.
+- `agents/guardian.md` — Ethical compass and boundary enforcement.
+
+*(Note: The `agents/ingeniero.md` file has been archived. We tested this role and officially retired it. We learned that direct collaboration between the Captain, the Contramaestre, and surgical AI coding tools yields better, faster, and more aligned results than delegating to a separate engineering persona.)*
 
 ## License
-MIT. Use it, fork it, improve it. Fixes upstream welcome.
+MIT. Use it, fork it, improve it. Fixes upstream are welcome.
