@@ -21,7 +21,7 @@ We share our maps so others can learn from them, adapt them, and build their own
 - The Six Pillars and the full workflow live in the [Hammock AI manifesto](https://github.com/hammockai).
 
 ## 📜 The Logbook
-These prompts are the result of a year of work and study that began in October 2025, across **Claude**, **Kimi** and **Qwen**. The [Logbook](logbook/README.md) keeps the milestones: early and retired agents (El Escribano, The Artist, Cipher, El Ingeniero, El Maestro…), the lineage of each current agent, and [how the Six Pillars evolved](logbook/pillars.md).
+These prompts are the result of over a year of work and study that began in August 2025, across **Claude**, **ChatGPT**, **Kimi** and **Qwen**. The [Logbook](logbook/README.md) keeps the milestones: early and retired agents (El Escribano, The Artist, Cipher, El Ingeniero, El Maestro…), the lineage of each current agent, and [how the Six Pillars evolved](logbook/pillars.md).
 
 ## How to Use
 1. Pick an agent and a language.

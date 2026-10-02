@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **🗓️ Fecha · Date** | 2025 (oct–dic) · *Oct–Dec 2025* |
+| **🗓️ Fecha · Date** | 7 feb 2026 (transición Claude → Qwen) · *Feb 7, 2026 (Claude → Qwen transition)* |
 | **🧠 Modelo · Model** | Claude |
 | **🎯 Para qué** | Documento que propuso un nuevo valor central: *Al grano. Al toque. De una.* Tiempo, energía y tokens son recursos finitos. |
 | **🎯 Purpose** | *Document proposing a new core value: *To the point. Right away. In one go.* Time, energy and tokens are finite.* |

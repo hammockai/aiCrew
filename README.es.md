@@ -21,7 +21,7 @@ Compartimos nuestros mapas para que otros aprendan de ellos, los adapten y armen
 - Los Seis Pilares y el flujo completo están en el [manifiesto de Hammock AI](https://github.com/hammockai/.github/blob/main/profile/README.es.md).
 
 ## 📜 La Bitácora
-Estos prompts son el resultado de un año de trabajo y estudio que empezó en octubre de 2025, pasando por **Claude**, **Kimi** y **Qwen**. La [Bitácora](logbook/README.es.md) guarda los hitos: agentes antiguos y retirados (El Escribano, The Artist, Cipher, El Ingeniero, El Maestro…), el linaje de cada agente vigente y [cómo evolucionaron los Seis Pilares](logbook/pillars.es.md).
+Estos prompts son el resultado de más de un año de trabajo y estudio que empezó en agosto de 2025, pasando por **Claude**, **ChatGPT**, **Kimi** y **Qwen**. La [Bitácora](logbook/README.es.md) guarda los hitos: agentes antiguos y retirados (El Escribano, The Artist, Cipher, El Ingeniero, El Maestro…), el linaje de cada agente vigente y [cómo evolucionaron los Seis Pilares](logbook/pillars.es.md).
 
 ## Cómo usarlos
 1. Elige un agente y un idioma.

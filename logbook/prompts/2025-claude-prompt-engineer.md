@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **🗓️ Fecha · Date** | 2025 (oct–dic) · *Oct–Dec 2025* |
+| **🗓️ Fecha · Date** | 16 oct 2025 · *Oct 16, 2025* |
 | **🧠 Modelo · Model** | Claude |
 | **🎯 Para qué** | Transformar ideas en prompts listos para producción, con metodología de análisis, estructura y prueba. |
 | **🎯 Purpose** | *Turn rough ideas into production-ready prompts, with an analyze–structure–test methodology.* |

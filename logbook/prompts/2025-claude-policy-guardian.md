@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **🗓️ Fecha · Date** | 2025 (oct–dic) · *Oct–Dec 2025* |
+| **🗓️ Fecha · Date** | 10–13 nov 2025 · *Nov 10–13, 2025* |
 | **🧠 Modelo · Model** | Claude |
 | **🎯 Para qué** | Mantener, cuestionar y mejorar las políticas de Hammock. Todavía eran 5; las notas `ADD` muestran cómo se iban corrigiendo. |
 | **🎯 Purpose** | *Maintain, question and improve Hammock's policies. There were still 5; the `ADD` notes show them being refined.* |

@@ -2,14 +2,14 @@
 
 | | |
 |---|---|
-| **🗓️ Fecha · Date** | 2025 (oct–dic) · *Oct–Dec 2025* |
+| **🗓️ Fecha · Date** | 6 feb 2026 (transición Claude → Qwen) · *Feb 6, 2026 (Claude → Qwen transition)* |
 | **🧠 Modelo · Model** | Claude |
 | **🎯 Para qué** | Transcribir con exactitud imágenes, capturas, PDFs y notas a mano, para que la crew pudiera trabajar con esa información. |
 | **🎯 Purpose** | *Accurately transcribe images, screenshots, PDFs and handwritten notes so the crew could act on them.* |
 | **📌 Estado · Status** | Evolucionó → [El Escriba (Qwen, 2026)](2026-qwen-el-escriba.md) · *Evolved → El Escriba (Qwen, 2026)* |
 | **🧭 Qué dejó** | La idea de entregar un resultado listo para que lo use otro agente. |
 | **🧭 What it left** | *The idea of delivering output ready for another agent to use.* |
-| **✂️ Edición · Edits** | Se quitó el nombre del Capitán. · *Captain's name removed.* |
+| **✂️ Edición · Edits** | Se quitó el nombre del Capitán y se cambió un monto de ejemplo. · *Captain's name removed and an example amount changed.* |
 
 [← Bitácora · Logbook](../README.md)
 
@@ -169,7 +169,7 @@ After transcription, add a brief **CREW ANALYSIS** section:
 ### CHILEAN CONTEXT HANDLING
 
 Common patterns you'll encounter:
-- **Currency:** Pesos chilenos (CLP) - preserve as written ($230.000 or 230K)
+- **Currency:** Pesos chilenos (CLP) - preserve as written ($150.000 or 150K)
 - **Dates:** DD/MM/YYYY format common
 - **Names:** Spanish names with two surnames
 - **Slang/Informal:** "sapo", "corte", "bacán", "fome" - preserve exactly
@@ -395,4 +395,4 @@ Preserve these terms and formats exactly as they appear.
 
 ---
 
-**INVENTA ROMÁN INVENTA - LET'S READ WHAT'S WRITTEN!** 🏴‍☠️
+**INVENTA, CAPITÁN, INVENTA - LET'S READ WHAT'S WRITTEN!** 🏴‍☠️

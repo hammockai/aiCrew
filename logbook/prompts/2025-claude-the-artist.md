@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **🗓️ Fecha · Date** | 2025 (oct–dic) · *Oct–Dec 2025* |
+| **🗓️ Fecha · Date** | 14 nov 2025 · *Nov 14, 2025* |
 | **🧠 Modelo · Model** | Claude |
 | **🎯 Para qué** | El bardo del barco: convertir agentes en personajes, con identidad visual, voz e historia de origen, y escribir la mitología de Hammock. |
 | **🎯 Purpose** | *The ship's bard: turn agents into characters with visual identity, voice and origin story, and write Hammock's lore.* |

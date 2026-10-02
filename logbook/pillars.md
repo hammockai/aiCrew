@@ -2,18 +2,18 @@
 
 *[Español](pillars.es.md)*
 
-The pillars were not written in one go. They changed as the crew worked, made mistakes and corrected course. This is their history, rebuilt from the prompts of each period. Every stage links to its source.
+The pillars were not written in one go. They changed as the crew worked, made mistakes and corrected course. This is their history, rebuilt from the prompts and conversations of each period. Every stage links to its source.
 
 ---
 
 ## The evolution at a glance
 
-| Pillar | 1 · First Contramaestre (Claude, 2025) | 2 · Policy Guardian (Claude, 2025) | 3 · Ruthless Efficiency (Claude, 2025) | 4 · Kimi ContraMaestre (Feb 2026) | 5 · The 7 Pillars (Qwen, 2026) | 6 · Today (2026) |
+| Pillar | 1 · Origin (Sep 2025) | 2 · Policies (Nov 2025) | 3 · Ruthless Efficiency (Feb 2026) | 4 · Kimi ContraMaestre (Feb 2026) | 5 · The 7 Pillars (Qwen, 2026) | 6 · Today (2026) |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|
-| ⚖️ Balanced Sea | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ *+ fair prices* |
 | 🧻 Booger Rule | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ *+ "no booger? move on"* |
-| 🧠 Challenge Assumptions | ✓ | ✓ | ✓ | — | — | ✓ *returns* |
-| 🌍 Accessibility First | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| ⚖️ Balanced Sea | — | ✓ | ✓ | ✓ | ✓ | ✓ *+ fair prices* |
+| 🧠 Challenge Assumptions | — | ✓ | ✓ | — | — | ✓ *returns* |
+| 🌍 Accessibility First | — | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 🤝 Open-Source Ethos | — | ✓ | ✓ | ✓ | ✓ | ✓ |
 | ⚡ Ruthless Efficiency | — | *"ADD" note* | ✓ | ✓ | — | → *communication style* |
 | 🏴‍☠️ Pirate Ethics | — | — | — | ✓ | ✓ | ⤵ *merged* |
@@ -24,14 +24,14 @@ The pillars were not written in one go. They changed as the crew worked, made mi
 
 ## The stages
 
-### 1. The first four policies · Claude, 2025
-The [first Contramaestre](prompts/2025-claude-contramaestre.md) already ran every decision through four filters: **Balanced Sea**, **Challenge Assumptions**, **Booger Rule** and **Accessibility First**. They were born as an answer to models that agreed with everything: someone had to contradict, honestly and with a solution.
+### 1. The origin: a phrase of the Captain's · Sep 2025
+In the first conversation with Claude (August 2025), the Captain asked for something specific: no condescension, someone who criticizes but also proposes and executes. On September 16 the Captain asked the Contramaestre to "point the booger in my face", and the next day completed the idea: **point out the booger and hand over the tissue**. That is how the **Booger Rule** was born, Hammock's first value, before any written prompt.
 
-### 2. Open-Source Ethos arrives · Claude, 2025
-The [Policy Guardian](prompts/2025-claude-policy-guardian.md) was created to protect and question those policies, and added a fifth: **Open-Source Collaborative Ethos**. The same file kept `<!--ADD-->` notes with what was missing: fair prices, "no booger? move on", and an efficiency value. Those notes made it into today's version.
+### 2. The policies take shape · Claude, Nov 2025
+Between November 10 and 13, during the prompt engineering work, **Balanced Sea** (inspired by Nash Equilibrium), **Challenge Assumptions** and **Accessibility First** appear in writing, next to the Booger Rule. The [Contramaestre](prompts/2025-claude-contramaestre.md) applied those four to every decision. The [Policy Guardian](prompts/2025-claude-policy-guardian.md) was created to protect them and added a fifth: **Open-Source Collaborative Ethos**. Its file kept `<!--ADD-->` notes with what was missing: fair prices, "no booger? move on", and an efficiency value. [The Architect](prompts/2025-claude-the-architect.md) added an extra value to its DNA, *Highest Standards*, which did not stick.
 
-### 3. Ruthless Efficiency · Claude, 2025
-A [dedicated document](prompts/2025-claude-ruthless-efficiency.md) proposed a sixth value: *"Al grano. Al toque. De una."* Time, energy and tokens are finite, and wasting them is disrespectful.
+### 3. Ruthless Efficiency · Claude, Feb 2026
+On February 7, a [dedicated document](prompts/2026-claude-ruthless-efficiency.md) proposed a sixth value: *"Al grano. Al toque. De una."* Time, energy and tokens are finite, and wasting them is disrespectful. The same day, a short text defined what it means to be part of the crew, with the six values.
 
 ### 4. Pirate Ethics appears · Kimi, Feb 2026
 The [Kimi ContraMaestre](prompts/2026-claude-kimi-contramaestre.md) worked with six principles. **Pirate Ethics** came in: digital sovereignty and care about which tools and providers we rely on. Challenge Assumptions dropped off the list, although the prompt still applied it ("Missing: [data]. Without it, I assume…").

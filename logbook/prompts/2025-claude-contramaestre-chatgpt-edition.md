@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **🗓️ Fecha · Date** | 2025 (oct–dic) · *Oct–Dec 2025* |
+| **🗓️ Fecha · Date** | 13 nov 2025 · *Nov 13, 2025* |
 | **🧠 Modelo · Model** | Creado con Claude, para usarse en ChatGPT · *Written by Claude, to run in ChatGPT* |
 | **🎯 Para qué** | Un "trasplante": Claude escribió su propio traspaso para seguir siendo el Contramaestre del Capitán en otro modelo, llevando memoria, patrones y compromisos. |
 | **🎯 Purpose** | *A "transplant": Claude wrote its own handover so it could keep being the Captain's Contramaestre inside another model, carrying memory, patterns and commitments.* |

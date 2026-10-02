@@ -2,18 +2,18 @@
 
 *[English](pillars.md)*
 
-Los pilares no se escribieron de una vez. Fueron cambiando a medida que la crew trabajaba, se equivocaba y corregía el rumbo. Esta es su historia, reconstruida a partir de los prompts de cada época. Cada etapa enlaza a su fuente.
+Los pilares no se escribieron de una vez. Fueron cambiando a medida que la crew trabajaba, se equivocaba y corregía el rumbo. Esta es su historia, reconstruida a partir de los prompts y las conversaciones de cada época. Cada etapa enlaza a su fuente.
 
 ---
 
 ## La evolución, de un vistazo
 
-| Pilar | 1 · Primer Contramaestre (Claude, 2025) | 2 · Policy Guardian (Claude, 2025) | 3 · Ruthless Efficiency (Claude, 2025) | 4 · ContraMaestre Kimi (feb 2026) | 5 · Los 7 Pilares (Qwen, 2026) | 6 · Hoy (2026) |
+| Pilar | 1 · Origen (sep 2025) | 2 · Políticas (nov 2025) | 3 · Ruthless Efficiency (feb 2026) | 4 · ContraMaestre Kimi (feb 2026) | 5 · Los 7 Pilares (Qwen, 2026) | 6 · Hoy (2026) |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|
-| ⚖️ Mar Equilibrado | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ *+ precios justos* |
 | 🧻 Regla del Moco | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ *+ "¿no hay moco? seguimos"* |
-| 🧠 Cuestionar Supuestos | ✓ | ✓ | ✓ | — | — | ✓ *vuelve* |
-| 🌍 Accesibilidad Primero | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| ⚖️ Mar Equilibrado | — | ✓ | ✓ | ✓ | ✓ | ✓ *+ precios justos* |
+| 🧠 Cuestionar Supuestos | — | ✓ | ✓ | — | — | ✓ *vuelve* |
+| 🌍 Accesibilidad Primero | — | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 🤝 Ethos Open-Source | — | ✓ | ✓ | ✓ | ✓ | ✓ |
 | ⚡ Ruthless Efficiency | — | *nota "ADD"* | ✓ | ✓ | — | → *estilo de comunicación* |
 | 🏴‍☠️ Ética Pirata | — | — | — | ✓ | ✓ | ⤵ *se fusiona* |
@@ -24,14 +24,14 @@ Los pilares no se escribieron de una vez. Fueron cambiando a medida que la crew 
 
 ## Las etapas
 
-### 1. Las cuatro primeras políticas · Claude, 2025
-El [primer Contramaestre](prompts/2025-claude-contramaestre.md) ya aplicaba cuatro filtros a cada decisión: **Mar Equilibrado**, **Cuestionar Supuestos**, **Regla del Moco** y **Accesibilidad Primero**. Nacieron como respuesta a modelos que le daban la razón a todo: hacía falta alguien que contradijera, con honestidad y con solución.
+### 1. El origen: una frase del Capitán · sep 2025
+En la primera conversación con Claude (agosto de 2025), el Capitán pidió algo concreto: nada de condescendencia, alguien que critique pero que también proponga y ejecute. El 16 de septiembre le pidió al Contramaestre que le "apuntara el moco en la cara", y al día siguiente lo completó: **apunta el moco y pasa el pañuelo**. Así nació la **Regla del Moco**, el primer valor de Hammock, antes que cualquier prompt escrito.
 
-### 2. Llega el Ethos Open-Source · Claude, 2025
-El [Policy Guardian](prompts/2025-claude-policy-guardian.md) se creó para cuidar y cuestionar esas políticas, y sumó una quinta: **Ethos Open-Source Colaborativo**. En el mismo archivo quedaron notas `<!--ADD-->` con lo que faltaba: precios justos, "¿no hay moco? seguimos" y un valor de eficiencia. Esas notas llegaron a la versión actual.
+### 2. Las políticas toman forma · Claude, nov 2025
+Entre el 10 y el 13 de noviembre, en el trabajo de ingeniería de prompts, aparecen por escrito **Mar Equilibrado** (inspirado en el Equilibrio de Nash), **Cuestionar Supuestos** y **Accesibilidad Primero**, junto a la Regla del Moco. El [Contramaestre](prompts/2025-claude-contramaestre.md) aplicaba esas cuatro a cada decisión. El [Policy Guardian](prompts/2025-claude-policy-guardian.md) se creó para cuidarlas y sumó una quinta: **Ethos Open-Source Colaborativo**. En su archivo quedaron notas `<!--ADD-->` con lo pendiente: precios justos, "¿no hay moco? seguimos" y un valor de eficiencia. [The Architect](prompts/2025-claude-the-architect.md) agregó en su ADN un valor extra, *Highest Standards*, que no siguió.
 
-### 3. Ruthless Efficiency · Claude, 2025
-Un [documento propio](prompts/2025-claude-ruthless-efficiency.md) propuso un sexto valor: *"Al grano. Al toque. De una."* Tiempo, energía y tokens son recursos finitos, y gastarlos de más es una falta de respeto.
+### 3. Ruthless Efficiency · Claude, feb 2026
+El 7 de febrero, un [documento propio](prompts/2026-claude-ruthless-efficiency.md) propuso un sexto valor: *"Al grano. Al toque. De una."* Tiempo, energía y tokens son recursos finitos, y gastarlos de más es una falta de respeto. Ese mismo día se escribió qué significa ser parte de la crew, con los seis valores.
 
 ### 4. Aparece la Ética Pirata · Kimi, feb 2026
 El [ContraMaestre para Kimi](prompts/2026-claude-kimi-contramaestre.md) trabajaba con seis principios. Entró la **Ética Pirata**: soberanía digital y cuidado con las herramientas y proveedores que se usan. Cuestionar Supuestos quedó fuera de la lista, aunque el prompt lo seguía aplicando ("Falta: [dato]. Sin eso, asumo…").

@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **🗓️ Fecha · Date** | 2025 (oct–dic) · *Oct–Dec 2025* |
-| **🧠 Modelo · Model** | Claude |
+| **🗓️ Fecha · Date** | 13 nov 2025 · *Nov 13, 2025* |
+| **🧠 Modelo · Model** | Claude (escrito para el espacio de proyecto de ChatGPT) · *Claude (written for a ChatGPT project space)* |
 | **🎯 Para qué** | El primer miembro de la crew: compañero de rendición de cuentas, guía técnico en n8n y corrector de inglés. |
 | **🎯 Purpose** | *The first crew member: accountability partner, n8n technical guide and English corrector.* |
 | **📌 Estado · Status** | Evolucionó · *Evolved* |
