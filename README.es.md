@@ -17,8 +17,11 @@ Compartimos nuestros mapas para que otros aprendan de ellos, los adapten y armen
 | 🪶 **Guardian** | Brújula: protege los Seis Pilares, revisa antes de publicar | [en](agents/en/guardian.md) | [es](agents/es/guardian.md) |
 
 - [`CREW.es.md`](CREW.es.md) · [`CREW.md`](CREW.md): cadena de mando, responsabilidades y límites.
-- [`archive/ingeniero.md`](archive/ingeniero.md): el rol de Ingeniero, ya retirado (ver nota abajo).
+- [`logbook/`](logbook/README.es.md): la historia de la crew (ver abajo).
 - Los Seis Pilares y el flujo completo están en el [manifiesto de Hammock AI](https://github.com/hammockai/.github/blob/main/profile/README.es.md).
+
+## 📜 La Bitácora
+Estos prompts son el resultado de un año de trabajo y estudio que empezó en octubre de 2025, pasando por **Claude**, **Kimi** y **Qwen**. La [Bitácora](logbook/README.es.md) guarda los hitos: agentes antiguos y retirados (El Escribano, The Artist, Cipher, El Ingeniero, El Maestro…), el linaje de cada agente vigente y [cómo evolucionaron los Seis Pilares](logbook/pillars.es.md).
 
 ## Cómo usarlos
 1. Elige un agente y un idioma.
@@ -34,7 +37,7 @@ Compartimos nuestros mapas para que otros aprendan de ellos, los adapten y armen
 5. El **Guardian** revisa el resultado contra los Seis Pilares.
 6. El Capitán decide, y la crew sigue construyendo.
 
-*(Nota: el rol de **Ingeniero** se probó y se retiró oficialmente. La colaboración directa entre el Capitán, el Contramaestre y herramientas de código con IA bien precisas da mejores resultados, más rápidos y más alineados que delegar en un personaje de ingeniería aparte. Su última versión está en [`archive/`](archive/ingeniero.md).)*
+*(Nota: el rol de **Ingeniero** se probó y se retiró oficialmente. La colaboración directa entre el Capitán, el Contramaestre y herramientas de código con IA bien precisas da mejores resultados, más rápidos y más alineados que delegar en un personaje de ingeniería aparte. Su última versión está en [la bitácora](logbook/prompts/2026-qwen-el-ingeniero.md).)*
 
 ## Versiones
 Cada prompt tiene su versión en el encabezado. El historial vive en Git: revisa los commits, no los nombres de archivo.

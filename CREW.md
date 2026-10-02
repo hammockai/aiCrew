@@ -57,4 +57,4 @@ Full system prompts: [English](agents/en/) · [Español](agents/es/) · *[Leer e
 
 ---
 
-*(Note: The Ingeniero role has been officially retired. We learned that direct collaboration between the Captain, the Contramaestre, and surgical AI coding tools yields better, faster, and more aligned results than delegating to a separate engineering persona. Its last version is kept in [`archive/ingeniero.md`](archive/ingeniero.md).)*
+*(Note: The Ingeniero role has been officially retired. We learned that direct collaboration between the Captain, the Contramaestre, and surgical AI coding tools yields better, faster, and more aligned results than delegating to a separate engineering persona. Its last version is kept in [`logbook/prompts/2026-qwen-el-ingeniero.md`](logbook/prompts/2026-qwen-el-ingeniero.md).)*

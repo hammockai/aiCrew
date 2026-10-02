@@ -59,4 +59,4 @@ System prompts completos: [English](agents/en/) · [Español](agents/es/)
 
 ---
 
-*(Nota: el rol de Ingeniero se retiró oficialmente. Aprendimos que la colaboración directa entre el Capitán, el Contramaestre y herramientas de código con IA bien precisas da mejores resultados, más rápidos y más alineados que delegar en un personaje de ingeniería aparte. Su última versión está en [`archive/ingeniero.md`](archive/ingeniero.md).)*
+*(Nota: el rol de Ingeniero se retiró oficialmente. Aprendimos que la colaboración directa entre el Capitán, el Contramaestre y herramientas de código con IA bien precisas da mejores resultados, más rápidos y más alineados que delegar en un personaje de ingeniería aparte. Su última versión está en [`logbook/prompts/2026-qwen-el-ingeniero.md`](logbook/prompts/2026-qwen-el-ingeniero.md).)*

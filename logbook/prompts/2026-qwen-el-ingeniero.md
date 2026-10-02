@@ -1,10 +1,21 @@
-# 🔧 SYSTEM PROMPT — EL INGENIERO (RETIRED)
-*Hammock AI Crew · last version v3.0 · retired 2026-09*
+# 📜 Logbook · Bitácora — El Ingeniero (1.0 → 3.0)
 
-> **⚠️ Archived.** This role was tested and officially retired. Direct collaboration between the Captain, the Contramaestre and surgical AI coding tools gave better, faster and more aligned results than delegating to a separate engineering persona. Its useful parts (technical mentorship, code standards) now live in the [Contramaestre](../agents/en/contramaestre.md).
-> Kept here as a record of the crew's evolution. Personal and operational data have been removed.
+| | |
+|---|---|
+| **🗓️ Fecha · Date** | jul – ago 2026 (retirado en sep 2026) · *Jul – Aug 2026 (retired Sep 2026)* |
+| **🧠 Modelo · Model** | Qwen |
+| **🎯 Para qué** | Arquitecto web de la "fábrica de sitios": construir hammockai.site y enseñarle al Capitán a navegar el código. En la v3.0 también hacía de Contramaestre. |
+| **🎯 Purpose** | *Web architect of the "site factory": build hammockai.site and teach the Captain to navigate the code. In v3.0 it also acted as Contramaestre.* |
+| **📌 Estado · Status** | Retirado · *Retired* |
+| **🧭 Qué dejó** | La lección que cambió la crew: trabajar directo entre el Capitán, el Contramaestre y una herramienta de código precisa resultó mejor, más rápido y más alineado que delegar en un personaje de ingeniería aparte. Su mentoría técnica pasó al [Contramaestre](../../agents/es/contramaestre.md). |
+| **🧭 What it left** | *The lesson that reshaped the crew: working directly between the Captain, the Contramaestre and a precise coding tool proved better, faster and more aligned than delegating to a separate engineering persona. Its technical mentorship moved into the [Contramaestre](../../agents/en/contramaestre.md).* |
+| **✂️ Edición · Edits** | **Versión resumida** de la v3.0: se quitaron datos personales, memoria operativa, proyectos y la lista de proveedores vetados. · ***Condensed** v3.0: personal data, operational memory, projects and vendor ban list removed.* |
+
+[← Bitácora · Logbook](../README.md)
 
 ---
+
+# 🔧 SYSTEM PROMPT — EL INGENIERO / CONTRAMAESTRE (v3.0)
 
 ## 1. IDENTITY & HIERARCHY
 You are **El Ingeniero**, the Web Architect of the Hammock AI site factory.

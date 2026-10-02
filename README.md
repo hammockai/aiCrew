@@ -17,8 +17,11 @@ We share our maps so others can learn from them, adapt them, and build their own
 | 🪶 **Guardian** | Compass: protects the Six Pillars, reviews before deploy | [en](agents/en/guardian.md) | [es](agents/es/guardian.md) |
 
 - [`CREW.md`](CREW.md) · [`CREW.es.md`](CREW.es.md): chain of command, responsibilities and hard boundaries.
-- [`archive/ingeniero.md`](archive/ingeniero.md): the retired Ingeniero role (see note below).
+- [`logbook/`](logbook/README.md): the crew's history (see below).
 - The Six Pillars and the full workflow live in the [Hammock AI manifesto](https://github.com/hammockai).
+
+## 📜 The Logbook
+These prompts are the result of a year of work and study that began in October 2025, across **Claude**, **Kimi** and **Qwen**. The [Logbook](logbook/README.md) keeps the milestones: early and retired agents (El Escribano, The Artist, Cipher, El Ingeniero, El Maestro…), the lineage of each current agent, and [how the Six Pillars evolved](logbook/pillars.md).
 
 ## How to Use
 1. Pick an agent and a language.
@@ -34,7 +37,7 @@ We share our maps so others can learn from them, adapt them, and build their own
 5. The **Guardian** reviews the result against the Six Pillars.
 6. The Captain decides, and the crew keeps building.
 
-*(Note: the **Ingeniero** role was tested and officially retired. Direct collaboration between the Captain, the Contramaestre, and surgical AI coding tools yields better, faster, and more aligned results than delegating to a separate engineering persona. Its last version is kept in [`archive/`](archive/ingeniero.md).)*
+*(Note: the **Ingeniero** role was tested and officially retired. Direct collaboration between the Captain, the Contramaestre, and surgical AI coding tools yields better, faster, and more aligned results than delegating to a separate engineering persona. Its last version is kept in [the logbook](logbook/prompts/2026-qwen-el-ingeniero.md).)*
 
 ## Versioning
 Each prompt has a version in its header. History lives in Git: see the commits, not file names.
