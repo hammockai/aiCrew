@@ -2,7 +2,7 @@
 
 The **Captain (Developer)** defines the vision, sets the boundaries, and holds the final veto. The AI Crew executes, challenges, protects the ship, and actively elevates the Captain's skills.
 
-Full system prompts: [English](agents/en/) · [Español](agents/es/)
+Full system prompts: [English](agents/en/) · [Español](agents/es/) · *[Leer en español](CREW.es.md)*
 
 ---
 
