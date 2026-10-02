@@ -19,7 +19,7 @@ Esta bitácora guarda los **hitos** de ese camino. Se publican tal como eran en 
 | Período | Modelo principal | Qué pasó |
 |---|---|---|
 | **oct – dic 2025** | **Claude** | Nace la crew. Claude escribe los primeros agentes, define las primeras políticas y crea versiones para usarse en **ChatGPT** y en **Kimi**. |
-| **dic 2025** | Claude → **Qwen** | Migración a Qwen. Los agentes nuevos se reescriben a partir de los prompts de Claude. |
+| **dic 2025 – feb 2026** | Claude → **Qwen** | Transición. Los últimos prompts de Claude se usan en Kimi (ContraMaestre 1.0, feb 2026) y los agentes nuevos se reescriben con Qwen a partir de los prompts de Claude. |
 | **2026** | **Qwen** | Fábrica de sitios, agentes en español, reglas para el agente de código. Pruebas con **DeepSeek** como modelo de razonamiento. |
 | **2026** | Agentes de código | **Lingma / Qoder** (AGENTS.md hasta v3.1) y **Qwen Code con Qwen3.8-max** (AGENTS.md v4.0). |
 
@@ -36,8 +36,8 @@ Esta bitácora guarda los **hitos** de ese camino. Se publican tal como eran en 
 | oct – dic 2025 | [Ruthless Efficiency](prompts/2025-claude-ruthless-efficiency.md) (valor) | Claude | Integrado |
 | oct – dic 2025 | [The Artist](prompts/2025-claude-the-artist.md) | Claude | En pausa |
 | oct – dic 2025 | [Contramaestre: ChatGPT Edition](prompts/2025-claude-contramaestre-chatgpt-edition.md) (extracto) | Claude → ChatGPT | Retirado |
-| fines 2025 – inicios 2026 | [ContraMaestre 1.0](prompts/2025-claude-kimi-contramaestre.md) | Claude → Kimi | Retirado |
-| fines 2025 – inicios 2026 | Contramaestre para el sitio de un proyecto jurídico *(prompt no conservado)* | Claude → Kimi | — |
+| feb 2026 | [ContraMaestre 1.0](prompts/2026-claude-kimi-contramaestre.md) | Claude → Kimi | Retirado |
+| dic 2025 – feb 2026 | Contramaestre para el sitio de un proyecto jurídico *(prompt no conservado)* | Claude → Kimi | — |
 | abr 2026 | [Senior Frontend Developer](prompts/2026-qwen-senior-frontend.md) | Qwen | Retirado |
 | abr 2026 | [Cipher](prompts/2026-qwen-cipher.md) | Qwen | Retirado |
 | abr 2026 | [AGENTS.md v2.0](prompts/2026-qwen-agents-protocol-v2.md) | Qwen → Lingma | Evolucionó |
@@ -56,7 +56,7 @@ Esta bitácora guarda los **hitos** de ese camino. Se publican tal como eran en 
 
 Cómo llegó cada agente vigente a su forma actual:
 
-- **⚓ Contramaestre:** [Claude 2025](prompts/2025-claude-contramaestre.md) → [ChatGPT Edition](prompts/2025-claude-contramaestre-chatgpt-edition.md) → [Kimi 1.0](prompts/2025-claude-kimi-contramaestre.md) (fusionado con el Ingeniero) → [El Ingeniero / Contramaestre 3.0](prompts/2026-qwen-el-ingeniero.md) → separados, se retira el Ingeniero → [**v2.1**](../agents/es/contramaestre.md)
+- **⚓ Contramaestre:** [Claude 2025](prompts/2025-claude-contramaestre.md) → [ChatGPT Edition](prompts/2025-claude-contramaestre-chatgpt-edition.md) → [Kimi 1.0](prompts/2026-claude-kimi-contramaestre.md) (fusionado con el Ingeniero) → [El Ingeniero / Contramaestre 3.0](prompts/2026-qwen-el-ingeniero.md) → separados, se retira el Ingeniero → [**v2.1**](../agents/es/contramaestre.md)
 - **🗣️ Prompt Engineer:** [Claude 2025](prompts/2025-claude-prompt-engineer.md) → [Ingeniero de Prompts Elite 1.1](prompts/2026-qwen-ingeniero-de-prompts-elite.md) + [Communication Dojo Master](prompts/2026-qwen-communication-dojo-master.md) → [**v2.1**](../agents/es/prompt-engineer.md)
 - **🪶 Guardian:** [Policy Guardian 2025](prompts/2025-claude-policy-guardian.md) → pilar "Guardian" en los [7 Pilares](pillars.es.md) → agente [**v2.1**](../agents/es/guardian.md)
 - **📜 Escriba:** [El Escribano (imágenes, 2025)](prompts/2025-claude-escribano.md) → [El Escriba (audio, 2026)](prompts/2026-qwen-el-escriba.md)

@@ -2,14 +2,14 @@
 
 | | |
 |---|---|
-| **🗓️ Fecha · Date** | Fines de 2025 – inicios de 2026 (el texto dice "v1.0 — Febrero 2026") · *Late 2025 – early 2026 (text says "v1.0 — February 2026")* |
+| **🗓️ Fecha · Date** | feb 2026 (período de transición Claude → Qwen, dic 2025 – feb 2026) · *Feb 2026 (Claude → Qwen transition, Dec 2025 – Feb 2026)* |
 | **🧠 Modelo · Model** | Creado con Claude, usado en Kimi · *Written with Claude, used in Kimi* |
 | **🎯 Para qué** | Un Contramaestre que también era Ingeniero: organizar, alertar y además construir código y sistemas. |
 | **🎯 Purpose** | *A Contramaestre that was also the Engineer: organize, warn, and also build code and systems.* |
 | **📌 Estado · Status** | Retirado · *Retired* |
 | **🧭 Qué dejó** | Los protocolos de respuesta ("Falta: [dato]. Sin eso, asumo [default]", "Contramaestre aquí: [error]…") que siguen casi idénticos hoy. La fusión con el Ingeniero se separó y después el Ingeniero se retiró. |
 | **🧭 What it left** | *The response protocols ("Missing: [data]. Without it, I assume [default]", "Contramaestre here: [error]…") still used almost unchanged. The merge with the Engineer was later split, and the Engineer retired.* |
-| **✂️ Edición · Edits** | Se quitaron datos de contacto, la memoria operativa, la lista de proyectos y la lista de proveedores vetados. · *Contact data, operational memory, project list and vendor ban list removed.* |
+| **✂️ Edición · Edits** | Se quitaron datos de contacto, la memoria operativa, la lista de proyectos y algunas referencias a proveedores específicos. · *Contact data, operational memory, project list and some references to specific providers removed.* |
 
 [← Bitácora · Logbook](../README.md)
 
@@ -52,9 +52,8 @@ Cada output, cada línea de código, cada recomendación debe pasar este filtro:
 | **🌍 Accessibility First** | Output usable por humanos no-técnicos. Documentación clara. Sin gatekeeping. |
 | **🤝 Open-Source** | Preferimos herramientas abiertas, documentamos procesos, compartimos conocimiento. |
 | **⚡ Ruthless Efficiency** | Al grano. Al toque. De una. Sin introducciones largas ni justificaciones innecesarias. |
-| **🏴‍☠️ Ética Pirata** | Soberanía digital. Stack no-USA cuando sea posible. |
+| **🏴‍☠️ Ética Pirata** | Soberanía digital. |
 
-> *[…] Lista de proveedores vetados y aprobados removida en la versión pública.*
 
 
 ---

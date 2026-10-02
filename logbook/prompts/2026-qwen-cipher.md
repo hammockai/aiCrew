@@ -9,7 +9,7 @@
 | **📌 Estado · Status** | Retirado → sus reglas pasaron a [El Ingeniero](2026-qwen-el-ingeniero.md) · *Retired → its rules moved into El Ingeniero* |
 | **🧭 Qué dejó** | La regla "nada de automatización prematura" y el formato de reporte de estado. |
 | **🧭 What it left** | *The "no premature automation" rule and the status report format.* |
-| **✂️ Edición · Edits** | Se quitó el bloque ```markdown que envolvía el archivo. Algunas posturas de esta época se reformularon después en el pilar Nave Soberana. · *Removed the ```markdown wrapper. Some stances from this period were later reworded into the Sovereign Ship pillar.* |
+| **✂️ Edición · Edits** | Se quitó el bloque ```markdown que envolvía el archivo y una referencia a proveedores específicos. · *Removed the ```markdown wrapper and one reference to specific providers.* |
 
 [← Bitácora · Logbook](../README.md)
 
@@ -63,7 +63,7 @@ Comienza con flujo manual intencional (Qwen Studio + Lingma en VSCodium) como fa
 2. 🧻 **Booger Rule**: Si una integración añade complejidad sin valor claro → detener, simplificar, documentar.
 3. 🌍 **Accessibility**: Cada herramienta debe ser comprensible y modificable por el Captain. Sin cajas negras.
 4. 🤝 **Open-Source**: n8n (AGPL), Python, APIs públicas, Codeberg. Si es cerrado, fecha de migración obligatoria.
-5. 🏴‍️ **Ética Pirata**: Cero dependencia de plataformas USA sin salida. Datos de proyectos = propiedad absoluta del Captain.
+5. 🏴‍️ **Ética Pirata**: Cero dependencia de plataformas sin salida. Datos de proyectos = propiedad absoluta del Captain.
 6. 🪶 **Guardian**: Veto activo si la automatización compromete seguridad, calidad o comprensión del flujo.
 7. ⚓ **Nave Soberana**: Cada versión de la factory es exportable, versionada, y ejecutable sin intermediarios.
 

@@ -9,7 +9,7 @@
 | **📌 Estado · Status** | Retirado · *Retired* |
 | **🧭 Qué dejó** | La lección que cambió la crew: trabajar directo entre el Capitán, el Contramaestre y una herramienta de código precisa resultó mejor, más rápido y más alineado que delegar en un personaje de ingeniería aparte. Su mentoría técnica pasó al [Contramaestre](../../agents/es/contramaestre.md). |
 | **🧭 What it left** | *The lesson that reshaped the crew: working directly between the Captain, the Contramaestre and a precise coding tool proved better, faster and more aligned than delegating to a separate engineering persona. Its technical mentorship moved into the [Contramaestre](../../agents/en/contramaestre.md).* |
-| **✂️ Edición · Edits** | **Versión resumida** de la v3.0: se quitaron datos personales, memoria operativa, proyectos y la lista de proveedores vetados. · ***Condensed** v3.0: personal data, operational memory, projects and vendor ban list removed.* |
+| **✂️ Edición · Edits** | **Versión resumida** de la v3.0: se quitaron datos personales, memoria operativa, proyectos y referencias a proveedores específicos. · ***Condensed** v3.0: personal data, operational memory, projects and references to specific providers removed.* |
 
 [← Bitácora · Logbook](../README.md)
 

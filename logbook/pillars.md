@@ -8,7 +8,7 @@ The pillars were not written in one go. They changed as the crew worked, made mi
 
 ## The evolution at a glance
 
-| Pillar | 1 · First Contramaestre (Claude, 2025) | 2 · Policy Guardian (Claude, 2025) | 3 · Ruthless Efficiency (Claude, 2025) | 4 · Kimi ContraMaestre (2025–26) | 5 · The 7 Pillars (Qwen, 2026) | 6 · Today (2026) |
+| Pillar | 1 · First Contramaestre (Claude, 2025) | 2 · Policy Guardian (Claude, 2025) | 3 · Ruthless Efficiency (Claude, 2025) | 4 · Kimi ContraMaestre (Feb 2026) | 5 · The 7 Pillars (Qwen, 2026) | 6 · Today (2026) |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|
 | ⚖️ Balanced Sea | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ *+ fair prices* |
 | 🧻 Booger Rule | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ *+ "no booger? move on"* |
@@ -33,11 +33,11 @@ The [Policy Guardian](prompts/2025-claude-policy-guardian.md) was created to pro
 ### 3. Ruthless Efficiency · Claude, 2025
 A [dedicated document](prompts/2025-claude-ruthless-efficiency.md) proposed a sixth value: *"Al grano. Al toque. De una."* Time, energy and tokens are finite, and wasting them is disrespectful.
 
-### 4. Pirate Ethics appears · Kimi, 2025–2026
-The [Kimi ContraMaestre](prompts/2025-claude-kimi-contramaestre.md) worked with six principles. **Pirate Ethics** came in: digital sovereignty and care about which tools and providers we rely on. Challenge Assumptions dropped off the list, although the prompt still applied it ("Missing: [data]. Without it, I assume…").
+### 4. Pirate Ethics appears · Kimi, Feb 2026
+The [Kimi ContraMaestre](prompts/2026-claude-kimi-contramaestre.md) worked with six principles. **Pirate Ethics** came in: digital sovereignty and care about which tools and providers we rely on. Challenge Assumptions dropped off the list, although the prompt still applied it ("Missing: [data]. Without it, I assume…").
 
 ### 5. The Seven Pillars · Qwen, 2026
-With Qwen, the list grew to seven ([Cipher](prompts/2026-qwen-cipher.md), [AGENTS v2.0](prompts/2026-qwen-agents-protocol-v2.md), [El Escriba](prompts/2026-qwen-el-escriba.md)): **Guardian** (active veto when quality or values are at risk) and **Sovereign Ship** (total control, backups, freedom to migrate) were added. Efficiency and Challenge Assumptions left the list. An "ethical stack" statement with banned providers was also written in this period; it was later reworded as a principle, without names.
+With Qwen, the list grew to seven ([Cipher](prompts/2026-qwen-cipher.md), [AGENTS v2.0](prompts/2026-qwen-agents-protocol-v2.md), [El Escriba](prompts/2026-qwen-el-escriba.md)): **Guardian** (active veto when quality or values are at risk) and **Sovereign Ship** (total control, backups, freedom to migrate) were added. Efficiency and Challenge Assumptions left the list.
 
 ### 6. Today's Six Pillars · 2026
 The current version, in the [manifesto](https://github.com/hammockai), put everything in order:

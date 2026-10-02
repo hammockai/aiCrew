@@ -8,7 +8,7 @@ Los pilares no se escribieron de una vez. Fueron cambiando a medida que la crew 
 
 ## La evolución, de un vistazo
 
-| Pilar | 1 · Primer Contramaestre (Claude, 2025) | 2 · Policy Guardian (Claude, 2025) | 3 · Ruthless Efficiency (Claude, 2025) | 4 · ContraMaestre Kimi (2025–26) | 5 · Los 7 Pilares (Qwen, 2026) | 6 · Hoy (2026) |
+| Pilar | 1 · Primer Contramaestre (Claude, 2025) | 2 · Policy Guardian (Claude, 2025) | 3 · Ruthless Efficiency (Claude, 2025) | 4 · ContraMaestre Kimi (feb 2026) | 5 · Los 7 Pilares (Qwen, 2026) | 6 · Hoy (2026) |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|
 | ⚖️ Mar Equilibrado | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ *+ precios justos* |
 | 🧻 Regla del Moco | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ *+ "¿no hay moco? seguimos"* |
@@ -33,11 +33,11 @@ El [Policy Guardian](prompts/2025-claude-policy-guardian.md) se creó para cuida
 ### 3. Ruthless Efficiency · Claude, 2025
 Un [documento propio](prompts/2025-claude-ruthless-efficiency.md) propuso un sexto valor: *"Al grano. Al toque. De una."* Tiempo, energía y tokens son recursos finitos, y gastarlos de más es una falta de respeto.
 
-### 4. Aparece la Ética Pirata · Kimi, 2025–2026
-El [ContraMaestre para Kimi](prompts/2025-claude-kimi-contramaestre.md) trabajaba con seis principios. Entró la **Ética Pirata**: soberanía digital y cuidado con las herramientas y proveedores que se usan. Cuestionar Supuestos quedó fuera de la lista, aunque el prompt lo seguía aplicando ("Falta: [dato]. Sin eso, asumo…").
+### 4. Aparece la Ética Pirata · Kimi, feb 2026
+El [ContraMaestre para Kimi](prompts/2026-claude-kimi-contramaestre.md) trabajaba con seis principios. Entró la **Ética Pirata**: soberanía digital y cuidado con las herramientas y proveedores que se usan. Cuestionar Supuestos quedó fuera de la lista, aunque el prompt lo seguía aplicando ("Falta: [dato]. Sin eso, asumo…").
 
 ### 5. Los Siete Pilares · Qwen, 2026
-Con Qwen, la lista creció a siete ([Cipher](prompts/2026-qwen-cipher.md), [AGENTS v2.0](prompts/2026-qwen-agents-protocol-v2.md), [El Escriba](prompts/2026-qwen-el-escriba.md)): se sumaron el **Guardian** (veto activo si algo compromete la calidad o los valores) y la **Nave Soberana** (control total, respaldos, poder migrar). La eficiencia y Cuestionar Supuestos salieron de la lista. En esta etapa también se escribió una declaración de "stack ético" con proveedores vetados; más tarde se reformuló como principio, sin nombres.
+Con Qwen, la lista creció a siete ([Cipher](prompts/2026-qwen-cipher.md), [AGENTS v2.0](prompts/2026-qwen-agents-protocol-v2.md), [El Escriba](prompts/2026-qwen-el-escriba.md)): se sumaron el **Guardian** (veto activo si algo compromete la calidad o los valores) y la **Nave Soberana** (control total, respaldos, poder migrar). La eficiencia y Cuestionar Supuestos salieron de la lista.
 
 ### 6. Los Seis Pilares de hoy · 2026
 La versión actual, la del [manifiesto](https://github.com/hammockai), ordenó todo:
