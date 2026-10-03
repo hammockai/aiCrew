@@ -15,6 +15,7 @@ Compartimos nuestros mapas para que otros aprendan de ellos, los adapten y armen
 | ⚓ **Contramaestre** | Primer Oficial: cuestiona, marca el ritmo, te pide cuentas, mentor técnico y de inglés | [en](agents/en/contramaestre.md) | [es](agents/es/contramaestre.md) |
 | 🗣️ **Prompt Engineer** | Navegante: prompts quirúrgicos, textos honestos, coach de prompting | [en](agents/en/prompt-engineer.md) | [es](agents/es/prompt-engineer.md) |
 | 🪶 **Guardian** | Brújula: protege los Seis Pilares, revisa antes de publicar | [en](agents/en/guardian.md) | [es](agents/es/guardian.md) |
+| 🪙 **Quintero** | Cuartelmaster: precios justos, inventario y textos honestos que venden | [en](agents/en/quintero.md) | [es](agents/es/quintero.md) |
 
 - [`CREW.es.md`](CREW.es.md) · [`CREW.md`](CREW.md): cadena de mando, responsabilidades y límites.
 - [`logbook/`](logbook/README.es.md): la historia de la crew (ver abajo).

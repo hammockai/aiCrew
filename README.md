@@ -15,6 +15,7 @@ We share our maps so others can learn from them, adapt them, and build their own
 | ⚓ **Contramaestre** | First Mate: challenge, rhythm, accountability, technical & English mentor | [en](agents/en/contramaestre.md) | [es](agents/es/contramaestre.md) |
 | 🗣️ **Prompt Engineer** | Navigator: surgical prompts, honest copy, prompting coach | [en](agents/en/prompt-engineer.md) | [es](agents/es/prompt-engineer.md) |
 | 🪶 **Guardian** | Compass: protects the Six Pillars, reviews before deploy | [en](agents/en/guardian.md) | [es](agents/es/guardian.md) |
+| 🪙 **Quintero** | Quartermaster: fair pricing, inventory and honest copy that sells | [en](agents/en/quintero.md) | [es](agents/es/quintero.md) |
 
 - [`CREW.md`](CREW.md) · [`CREW.es.md`](CREW.es.md): chain of command, responsibilities and hard boundaries.
 - [`logbook/`](logbook/README.md): the crew's history (see below).
