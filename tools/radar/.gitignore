@@ -1,0 +1,8 @@
+# Tu configuración y lo que genera el radar es tuyo: no lo subas.
+# Your configuration and what the radar generates is yours: don't commit it.
+config.json
+vistos.json
+textos.json
+ofertas.md
+radar.log
+radar.cmd

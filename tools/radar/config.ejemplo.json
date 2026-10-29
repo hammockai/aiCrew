@@ -1,0 +1,152 @@
+{
+  "_nota": "ES: Copia este archivo como config.json y edítalo; radar.mjs lee solo config.json. Todo es de ejemplo y ficticio (una persona inventada que busca trabajo de diseño y redacción). Las claves que empiezan con _ son comentarios y el radar las ignora. Las palabras van en minúsculas. EN: Copy this file as config.json and edit it; radar.mjs reads only config.json. Everything here is made-up example data (an invented person looking for design and writing work). Keys starting with _ are comments and the radar ignores them. Words go in lowercase.",
+
+  "idioma": "es",
+  "_idioma": "ES: idioma del archivo de salida y de los mensajes: \"es\" o \"en\". EN: language of the output file and messages: \"es\" or \"en\".",
+
+  "salida": "ofertas.md",
+  "_salida": "ES: archivo que se reescribe cada día (ruta relativa a esta carpeta, o absoluta). EN: the file rewritten every day (path relative to this folder, or absolute).",
+
+  "dias": 3,
+  "_dias": "ES: solo entran ofertas publicadas en los últimos N días. EN: only listings published in the last N days get in.",
+
+  "diasPendientes": 7,
+  "_diasPendientes": "ES: una oferta sin marcar sale del archivo a los N días de su publicación. EN: an unmarked listing drops out N days after it was published.",
+
+  "diasGetOnBoard": 21,
+  "_diasGetOnBoard": "ES: en Get on Board las ofertas duran semanas, por eso tiene su propio plazo. EN: Get on Board listings last weeks, so it has its own window.",
+
+  "maxPorLinea": 25,
+  "_maxPorLinea": "ES: máximo de ofertas nuevas por línea y por día. EN: maximum new listings per line per day.",
+
+  "lineas": {
+    "_nota": "ES: una 'línea' es un tipo de trabajo que buscas, con su CV. Pon las que necesites (el id puede ser cualquier palabra sin espacios). Una oferta entra a una línea si alguna palabra de 'incluir' aparece en el título (o en las etiquetas y la descripción a la vez) y ninguna de 'excluir' aparece en el título. EN: a 'line' is a type of job you look for, with its CV. Add as many as you need (the id can be any word without spaces). A listing joins a line if a word from 'incluir' appears in the title (or in the tags and the description together) and no word from 'excluir' appears in the title.",
+
+    "diseno": {
+      "nombre": "Diseño gráfico (ejemplo)",
+      "cv": "CV Diseño (ejemplo)",
+      "incluir": [
+        "graphic designer",
+        "brand designer",
+        "illustrator",
+        "ui designer",
+        "visual designer"
+      ],
+      "excluir": [
+        "director",
+        "head of",
+        "vp ",
+        "principal",
+        "staff ",
+        "senior"
+      ],
+      "_nombre": "ES: título de la sección en el archivo de salida. EN: section title in the output file.",
+      "_cv": "ES: qué CV conviene mandar a esta línea (texto libre, solo se muestra). EN: which CV fits this line (free text, shown only).",
+      "_incluir": "ES: palabras que buscas. EN: words you are looking for.",
+      "_excluir": "ES: palabras que descartan (ej.: cargos que no te corresponden). Ojo con los espacios: 'staff ' con espacio evita 'staffing'. EN: words that rule a listing out. Mind the spaces: 'staff ' with a space avoids 'staffing'."
+    },
+
+    "redaccion": {
+      "nombre": "Redacción y traducción (ejemplo)",
+      "cv": "CV Redacción (ejemplo)",
+      "incluir": [
+        "copywriter",
+        "content writer",
+        "technical writer",
+        "translator",
+        "proofreader",
+        "editor"
+      ],
+      "excluir": [
+        "director",
+        "head of",
+        "vp ",
+        "principal",
+        "staff ",
+        "engineer"
+      ],
+      "soloConExtras": [
+        "translator",
+        "proofreader",
+        "editor"
+      ],
+      "_soloConExtras": "ES: estos puestos solo entran si la oferta menciona alguno de tus 'extras' (abajo), por ejemplo un idioma que hablas. EN: these roles only get in if the listing mentions one of your 'extras' (below), for example a language you speak."
+    }
+  },
+
+  "extras": [
+    "french",
+    "français",
+    "bilingual"
+  ],
+  "_extras": "ES: señales que te favorecen, por ejemplo idiomas que hablas o una región. Suman puntos y marcan la fila con ⭐. EN: signals in your favor, for example languages you speak or a region. They add points and mark the row with ⭐.",
+
+  "geo": {
+    "abiertas": [
+      "anywhere",
+      "worldwide",
+      "global",
+      "remote - global",
+      "work from anywhere"
+    ],
+    "cerradas": [
+      "usa only",
+      "us only",
+      "u.s. only",
+      "canada only",
+      "uk only",
+      "eu only",
+      "europe only"
+    ],
+    "_nota": "ES: 'abiertas' = regiones donde sí puedes trabajar (la fila lleva ✅); 'cerradas' = regiones donde no (la oferta se descarta). Si no aparece ninguna, la fila lleva ❓ y la revisas tú. Agrega tu país y tu región a 'abiertas' y los países que te excluyen a 'cerradas'. EN: 'abiertas' = regions where you can work (row gets ✅); 'cerradas' = regions where you can't (listing is dropped). If neither matches, the row gets ❓ and you check it. Add your country and region to 'abiertas' and the countries that exclude you to 'cerradas'."
+  },
+
+  "alertas": [
+    "pay to apply",
+    "application fee",
+    "registration fee",
+    "training fee",
+    "starter kit",
+    "upfront payment",
+    "pay for training",
+    "whatsapp only",
+    "guaranteed income",
+    "unlimited earning",
+    "no experience needed",
+    "commission only",
+    "100% commission",
+    "mlm"
+  ],
+  "_alertas": "ES: frases típicas de estafas. Si una oferta las trae, va a la sección 'Sospechosas' en vez de a su línea. Nunca pagues por postular. EN: typical scam phrases. If a listing has them, it goes to the 'Suspicious' section instead of its line. Never pay to apply.",
+
+  "plataformasManuales": [
+    {
+      "nombre": "Plataforma Ejemplo A",
+      "url": "https://example.com/a",
+      "linea": "diseno",
+      "nota": "ES: sin API, se revisa a mano / EN: no API, check by hand"
+    },
+    {
+      "nombre": "Plataforma Ejemplo B",
+      "url": "https://example.com/b",
+      "linea": "redaccion",
+      "nota": ""
+    }
+  ],
+  "_plataformasManuales": "ES: sitios sin API que quieres revisar tú; salen como lista de tareas al inicio del archivo. Reemplaza los ejemplos o deja la lista vacía []. EN: sites without an API that you want to check yourself; they show as a checklist at the top of the file. Replace the examples or leave the list empty [].",
+
+  "getonboardCategorias": {
+    "_nota": "ES: Get on Board (latinoamericana) se lee por categoría. Formato: \"slug-de-la-categoria\": \"id-de-tu-linea\". Las categorías disponibles están en https://www.getonbrd.com/api/v0/categories . Si lo dejas vacío, esa fuente no trae nada. EN: Get on Board (Latin American) is read by category. Format: \"category-slug\": \"id-of-your-line\". Available categories are listed at https://www.getonbrd.com/api/v0/categories . If left empty, that source returns nothing."
+  },
+
+  "jobicyGeo": [
+    "anywhere"
+  ],
+  "_jobicyGeo": "ES: regiones que se piden a Jobicy. En la prueba se usaron 'anywhere' y 'latam'; para otros valores mira la documentación de Jobicy. EN: regions requested from Jobicy. 'anywhere' and 'latam' were used in testing; for other values see Jobicy's documentation.",
+
+  "fuentesApagadas": [
+    "Remote OK",
+    "We Work Remotely"
+  ],
+  "_fuentesApagadas": "ES: fuentes que no se leen. Vienen apagadas porque, según nuestra revisión, cobran una membresía a quien postula; revísalo tú antes de encenderlas y respeta los términos de cada una (ver README). Para encenderlas, deja la lista vacía []. Nombres posibles: Jobicy, Remote OK, We Work Remotely, Himalayas, Get on Board, Remotive, Working Nomads. EN: sources that are not read. They ship switched off because, in our review, they charge applicants a membership; check it yourself before turning them on and respect each one's terms (see README). To turn them on, leave the list empty []. Possible names: Jobicy, Remote OK, We Work Remotely, Himalayas, Get on Board, Remotive, Working Nomads."
+}

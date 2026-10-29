@@ -16,8 +16,14 @@ We share our maps so others can learn from them, adapt them, and build their own
 | 🗣️ **Prompt Engineer** | Navigator: surgical prompts, honest copy, prompting coach | [en](agents/en/prompt-engineer.md) | [es](agents/es/prompt-engineer.md) |
 | 🪶 **Guardian** | Compass: protects the Six Pillars, reviews before deploy | [en](agents/en/guardian.md) | [es](agents/es/guardian.md) |
 | 🪙 **Quintero** | Quartermaster: fair pricing, inventory and honest copy that sells | [en](agents/en/quintero.md) | [es](agents/es/quintero.md) |
+| 🔨 **El Constructor** | The Builder: light, accessible websites for small businesses, owned by the client | [en](agents/en/constructor-web.md) | [es](agents/es/constructor-web.md) |
+| 🔐 **La Cerrajera** | The Locksmith: security review before handover, every finding with its fix | [en](agents/en/seguridad.md) | [es](agents/es/seguridad.md) |
+| 🔭 **El Avistador** | The Lookout: filters the day's remote job offers and readies the application | [en](agents/en/avistador.md) | [es](agents/es/avistador.md) |
+| 🐢 **La Estafeta** | The Post Office: tracks applications, follow-ups and interviews | [en](agents/en/estafeta.md) | [es](agents/es/estafeta.md) |
 
 - [`CREW.md`](CREW.md) · [`CREW.es.md`](CREW.es.md): chain of command, responsibilities and hard boundaries.
+- [`tools/`](tools/): MIT-licensed tools: [`check-sitio`](tools/check-sitio/) (security checker and local server) and [`radar`](tools/radar/) (the day's remote job offers).
+- [`logbook/taller.md`](logbook/taller.md): how we create each agent (the Character Workshop).
 - [`logbook/`](logbook/README.md): the crew's history (see below).
 - The Six Pillars and the full workflow live in the [Hammock AI manifesto](https://github.com/hammockai).
 
