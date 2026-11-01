@@ -16,7 +16,7 @@ Compartimos nuestros mapas para que otros aprendan de ellos, los adapten y armen
 | 🗣️ **Prompt Engineer** | Navegante: prompts quirúrgicos, textos honestos, coach de prompting | [en](agents/en/prompt-engineer.md) | [es](agents/es/prompt-engineer.md) |
 | 🪶 **Guardian** | Brújula: protege los Seis Pilares, revisa antes de publicar | [en](agents/en/guardian.md) | [es](agents/es/guardian.md) |
 | 🪙 **Quintero** | Cuartelmaster: precios justos, inventario y textos honestos que venden | [en](agents/en/quintero.md) | [es](agents/es/quintero.md) |
-| 🔨 **El Constructor** | Sitios livianos y accesibles para negocios chicos, a nombre del cliente | [en](agents/en/constructor-web.md) | [es](agents/es/constructor-web.md) |
+| 🔨 **The Builder** | Sitios livianos y accesibles para negocios chicos, a nombre del cliente | [en](agents/en/constructor-web.md) | [es](agents/es/constructor-web.md) |
 | 🔐 **La Cerrajera** | Revisión de seguridad antes de entregar, cada hallazgo con su arreglo | [en](agents/en/seguridad.md) | [es](agents/es/seguridad.md) |
 | 🔭 **El Avistador** | Filtra las ofertas de trabajo remoto del día y deja lista la postulación | [en](agents/en/avistador.md) | [es](agents/es/avistador.md) |
 | 🐢 **La Estafeta** | Lleva postulaciones, seguimientos y entrevistas | [en](agents/en/estafeta.md) | [es](agents/es/estafeta.md) |

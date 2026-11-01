@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * serve.mjs — Servidor local para ver un sitio (El Constructor · Hammock AI)
+ * serve.mjs — Servidor local para ver un sitio (The Builder · Hammock AI)
  *
  * Uso:   node serve.mjs <carpeta-del-sitio> [puerto]
  * Ej.:   node serve.mjs mi-sitio

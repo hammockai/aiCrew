@@ -77,7 +77,7 @@ System prompts completos: [English](agents/en/) · [Español](agents/es/)
 
 ---
 
-## 🔨 El Constructor
+## 🔨 The Builder
 *Arma sitios livianos para negocios chicos.* · Prompt: [en](agents/en/constructor-web.md) · [es](agents/es/constructor-web.md) · Lema: *"Primero el bote chico, y que suba todo el mundo."*
 
 **Misión:** Construir el sitio más chico que logra que a un negocio lo encuentren, le crean y lo contacten, y entregarlo para que el dueño sea dueño de verdad.

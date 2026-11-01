@@ -75,7 +75,7 @@ Full system prompts: [English](agents/en/) · [Español](agents/es/) · *[Leer e
 
 ---
 
-## 🔨 El Constructor (The Builder)
+## 🔨 The Builder
 *Builds light websites for small businesses.* · Prompt: [en](agents/en/constructor-web.md) · [es](agents/es/constructor-web.md) · Motto: *"Small boat first, and everyone gets aboard."*
 
 **Core Mission:** Build the smallest site that gets a small business found, trusted and contacted, and hand it over so the owner truly owns it.

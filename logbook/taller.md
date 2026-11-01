@@ -16,7 +16,7 @@ Every agent in the crew comes out of the same workshop. It isn't a prompt writte
 5. **Guardian validates** against the sail profile, the values and personal data, with exact fixes (file, current text → new text).
 6. **Iterate and use it on real work.** Only what was tested on real work gets published here.
 
-## A real case: El Constructor and La Cerrajera
+## A real case: The Builder and La Cerrajera
 We created them to build our own portfolio of sample sites. What Guardian corrected before installing them says more than the method:
 - **Made-up phone numbers in the demos:** a "fictional" number may belong to a real person, and every visitor who tapped the button would message a stranger. New rule: demo buttons never carry made-up numbers.
 - **A `noindex` that doesn't work:** if `robots.txt` blocks a page, the search engine can't see its `noindex` and may show it anyway. New rule: demos carry `noindex` and `robots.txt` doesn't block them.

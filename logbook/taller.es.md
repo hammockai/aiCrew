@@ -16,7 +16,7 @@ Cada agente de la crew sale del mismo taller. No es un prompt escrito de una vez
 5. **Guardian valida** contra el perfil de velas, los valores y los datos personales, con correcciones exactas (archivo, texto actual → texto nuevo).
 6. **Se itera y se usa en trabajo real.** Solo lo que se probó en uso real se publica aquí.
 
-## Un caso real: El Constructor y La Cerrajera
+## Un caso real: The Builder y La Cerrajera
 Los creamos para armar nuestro propio portafolio de sitios de ejemplo. Lo que el Guardian corrigió antes de instalarlos dice más que el método:
 - **Teléfonos inventados en las demos:** un número "ficticio" puede ser de una persona real, y cada visita que tocara el botón le escribiría a un desconocido. Regla nueva: los botones de las demos nunca llevan números inventados.
 - **`noindex` que no funciona:** si el `robots.txt` bloquea una página, el buscador no ve su `noindex` y la puede mostrar igual. Regla nueva: las demos llevan `noindex` y el `robots.txt` no las bloquea.

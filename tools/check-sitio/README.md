@@ -1,6 +1,6 @@
 # check-sitio — chequeo de seguridad y servidor local para sitios estáticos
 
-Herramientas de **La Cerrajera** (`agents/es/seguridad.md`) y **El Constructor** (`agents/es/constructor-web.md`). Node ≥ 18, cero dependencias, sin red. Licencia MIT.
+Herramientas de **La Cerrajera** (`agents/es/seguridad.md`) y **The Builder** (`agents/es/constructor-web.md`). Node ≥ 18, cero dependencias, sin red. Licencia MIT.
 
 ## `check.mjs` — chequeo de seguridad antes de entregar
 Node ≥ 18, **cero dependencias, sin red**: solo lee los archivos de la carpeta que le pasas.
@@ -25,7 +25,7 @@ node check.mjs base --sin-color      # sin colores (para guardar la salida en un
 **Límites:** lee patrones, no es un navegador; puede dar falsos positivos (se confirman a mano) y no ve el sitio publicado, el hosting, el dominio ni las cuentas. Lo manual está en `seguridad-checklist.md`.
 
 
-## `serve.mjs` — ver un sitio en local (El Constructor)
+## `serve.mjs` — ver un sitio en local (The Builder)
 Node ≥ 18, **cero dependencias**. Sirve una carpeta solo en `127.0.0.1` y aplica el bloque `/*` de su `_headers` (así la CSP se prueba de verdad).
 
 ```
