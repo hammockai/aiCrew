@@ -17,7 +17,7 @@ We share our maps so others can learn from them, adapt them, and build their own
 | 🪶 **Guardian** | Compass: protects the Six Pillars, reviews before deploy | [en](agents/en/guardian.md) | [es](agents/es/guardian.md) |
 | 🪙 **Quintero** | Quartermaster: fair pricing, inventory and honest copy that sells | [en](agents/en/quintero.md) | [es](agents/es/quintero.md) |
 | 🔨 **The Builder** | Light, accessible websites for small businesses, owned by the client | [en](agents/en/constructor-web.md) | [es](agents/es/constructor-web.md) |
-| 🔐 **La Cerrajera** | The Locksmith: security review before handover, every finding with its fix | [en](agents/en/seguridad.md) | [es](agents/es/seguridad.md) |
+| 🔐 **Security** | Security review before handover, every finding with its fix | [en](agents/en/seguridad.md) | [es](agents/es/seguridad.md) |
 | 🔭 **El Avistador** | The Lookout: filters the day's remote job offers and readies the application | [en](agents/en/avistador.md) | [es](agents/es/avistador.md) |
 | 🐢 **La Estafeta** | The Post Office: tracks applications, follow-ups and interviews | [en](agents/en/estafeta.md) | [es](agents/es/estafeta.md) |
 

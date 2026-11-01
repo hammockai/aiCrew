@@ -94,7 +94,7 @@ System prompts completos: [English](agents/en/) · [Español](agents/es/)
 
 ---
 
-## 🔐 La Cerrajera
+## 🔐 Security
 *Revisa cada cerradura antes de entregar un sitio.* · Prompt: [en](agents/en/seguridad.md) · [es](agents/es/seguridad.md) · Lema: *"Cada rendija viene con su candado."*
 
 **Misión:** Decir la verdad incómoda antes que un atacante: revisar código, formularios, cabeceras, secretos, hosting y cuentas de un sitio chico, y traer el arreglo exacto de cada hallazgo.

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * check.mjs — Chequeo local de seguridad (La Cerrajera · Hammock AI)
+ * check.mjs — Chequeo local de seguridad (Security · Hammock AI)
  *
  * Uso:   node check.mjs <carpeta-del-sitio>
  * Ej.:   node check.mjs mi-sitio
@@ -39,7 +39,7 @@ const ESTE_SCRIPT = resolve(fileURLToPath(import.meta.url));
 const HOY = new Date().toLocaleDateString('sv-SE');
 
 // ---------------------------------------------------------------------------
-// Línea base (la de La Cerrajera, agents/es/seguridad.md). Se usa en los arreglos.
+// Línea base (la de Security, agents/es/seguridad.md). Se usa en los arreglos.
 // ---------------------------------------------------------------------------
 // En <meta> va SIN frame-ancestors: esa directiva se ignora en <meta>
 // (W3C CSP3: "Neither are the report-uri, frame-ancestors, and sandbox directives").
@@ -56,7 +56,7 @@ const HEADERS_BASE = [
 ].join('\n');
 
 // ---------------------------------------------------------------------------
-// Severidades (escala de La Cerrajera, agents/es/seguridad.md)
+// Severidades (escala de Security, agents/es/seguridad.md)
 // ---------------------------------------------------------------------------
 const SEV = {
   critico: { orden: 0, etiqueta: 'CRÍTICO', color: '1;31', nota: 'bloquea la entrega' },
@@ -75,7 +75,7 @@ const posicionales = args.filter((a) => !a.startsWith('-'));
 const usarColor = process.stdout.isTTY && !process.env.NO_COLOR && !banderas.has('--sin-color');
 const col = (codigo, s) => (usarColor ? `\x1b[${codigo}m${s}\x1b[0m` : s);
 
-const AYUDA = `Chequeo local de seguridad (La Cerrajera)
+const AYUDA = `Chequeo local de seguridad (Security)
 
 Uso:  node check.mjs <carpeta-del-sitio> [--sin-color]
 Ej.:  node check.mjs mi-sitio

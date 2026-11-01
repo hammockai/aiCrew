@@ -92,7 +92,7 @@ Full system prompts: [English](agents/en/) · [Español](agents/es/) · *[Leer e
 
 ---
 
-## 🔐 La Cerrajera (The Locksmith)
+## 🔐 Security
 *Checks every lock before a site is handed over.* · Prompt: [en](agents/en/seguridad.md) · [es](agents/es/seguridad.md) · Motto: *"Every gap comes with its padlock."*
 
 **Core Mission:** Tell the uncomfortable truth before an attacker does: review a small site's code, forms, headers, secrets, hosting and accounts, and bring the exact fix for every finding.

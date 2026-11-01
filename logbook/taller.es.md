@@ -16,7 +16,7 @@ Cada agente de la crew sale del mismo taller. No es un prompt escrito de una vez
 5. **Guardian valida** contra el perfil de velas, los valores y los datos personales, con correcciones exactas (archivo, texto actual → texto nuevo).
 6. **Se itera y se usa en trabajo real.** Solo lo que se probó en uso real se publica aquí.
 
-## Un caso real: The Builder y La Cerrajera
+## Un caso real: The Builder y Security
 Los creamos para armar nuestro propio portafolio de sitios de ejemplo. Lo que el Guardian corrigió antes de instalarlos dice más que el método:
 - **Teléfonos inventados en las demos:** un número "ficticio" puede ser de una persona real, y cada visita que tocara el botón le escribiría a un desconocido. Regla nueva: los botones de las demos nunca llevan números inventados.
 - **`noindex` que no funciona:** si el `robots.txt` bloquea una página, el buscador no ve su `noindex` y la puede mostrar igual. Regla nueva: las demos llevan `noindex` y el `robots.txt` no las bloquea.
@@ -24,7 +24,7 @@ Los creamos para armar nuestro propio portafolio de sitios de ejemplo. Lo que el
 - **Secretos a medio tapar:** mostrar "los primeros 3 y los últimos 4" de una contraseña corta deja ver casi toda. Regla nueva: las contraseñas y los secretos cortos se tapan completos.
 - **Hosting:** las condiciones de GitHub Pages no lo permiten como hosting gratis para un negocio en línea o una tienda, así que los sitios de clientes van en Cloudflare Pages, a nombre del cliente.
 
-Después, La Cerrajera auditó su propia herramienta y encontró una rendija en el servidor local: en Windows, los nombres cortos de archivo permitían pedir archivos ocultos. Se cerró antes de publicar.
+Después, Security auditó su propia herramienta y encontró una rendija en el servidor local: en Windows, los nombres cortos de archivo permitían pedir archivos ocultos. Se cerró antes de publicar.
 
 ## Lo que aprendimos
 - Un agente por oficio ("pastelero a sus pasteles"): el que construye no audita, el que audita no construye.

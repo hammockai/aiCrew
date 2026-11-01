@@ -1,17 +1,17 @@
 # Checklist de seguridad por entrega: sitio estático de negocio chico
-*v1 · 2026-10-21 · La Cerrajera (seguridad) · Hammock AI · CC BY-SA 4.0*
+*v1.1 · 2026-11-01 · Security (antes La Cerrajera) · Hammock AI · CC BY-SA 4.0*
 
 Sirve para cada sitio que sale de `base/` o `demos/` y se publica en **Cloudflare Pages a nombre del cliente**. No es una auditoría ni una prueba de intrusión: al terminar no se dice "seguro", se dice **qué puertas se revisaron y cuáles no**.
 
 **Cómo se usa (en orden):**
 1. `node tools/check.mjs <carpeta-del-sitio>` → tiene que salir con **0 crítico y 0 alto** (código de salida 0).
 2. Recorrer lo manual de esta lista.
-3. Informe de La Cerrajera (formato A de su prompt): primero lo más grave, cada hallazgo con su arreglo exacto. **El responsable del proyecto decide si sale.**
+3. Informe de Security (formato A de su prompt): primero lo más grave, cada hallazgo con su arreglo exacto. **El responsable del proyecto decide si sale.**
 
 **Leyenda**
 - **[A]** lo revisa `check.mjs` (automático, lectura de archivos, sin red).
-- **[M]** lo revisa a mano quien entrega (el responsable o La Cerrajera).
-- **[C]** lo confirma el cliente en su propio panel. La Cerrajera **no entra a cuentas ni pide claves**: lo que se ve en un panel se anota como "confirmado por el cliente".
+- **[M]** lo revisa a mano quien entrega (el responsable o Security).
+- **[C]** lo confirma el cliente en su propio panel. Security **no entra a cuentas ni pide claves**: lo que se ve en un panel se anota como "confirmado por el cliente".
 - Severidad si falla: **crítico / alto** (no se entrega) · **medio** (se arregla antes, salvo decisión anotada del responsable) · **bajo / info** (puede esperar).
 
 ---

@@ -1,6 +1,6 @@
 # check-sitio — chequeo de seguridad y servidor local para sitios estáticos
 
-Herramientas de **La Cerrajera** (`agents/es/seguridad.md`) y **The Builder** (`agents/es/constructor-web.md`). Node ≥ 18, cero dependencias, sin red. Licencia MIT.
+Herramientas de **Security** (`agents/es/seguridad.md`) y **The Builder** (`agents/es/constructor-web.md`). Node ≥ 18, cero dependencias, sin red. Licencia MIT.
 
 ## `check.mjs` — chequeo de seguridad antes de entregar
 Node ≥ 18, **cero dependencias, sin red**: solo lee los archivos de la carpeta que le pasas.
